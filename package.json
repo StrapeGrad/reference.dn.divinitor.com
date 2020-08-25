@@ -15,7 +15,7 @@
     "three": "^0.108.0",
     "three-addons": "^1.2.0",
     "urlsafe-base64": "^1.0.0",
-    "vue": "^2.6.10",
+    "vue": "^2.6.12",
     "vue-animejs": "^2.1.1",
     "vue-chartjs": "^3.4.2",
     "vue-class-component": "^7.1.0",
@@ -39,6 +39,6 @@
     "less": "^3.12.2",
     "less-loader": "^5.0.0",
     "typescript": "^3.6.3",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.12"
   }
 }
